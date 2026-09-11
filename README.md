@@ -41,7 +41,7 @@ If you want to run the code locally using the text file in this repository:
 ## Citations
 **Bregoli, F.; Michailovsky, C.I.; Irvine, K. (2026)** Mapping wetland fire dynamics with Sentinel-2 and UAV data in the papyrus-dominated Mara Wetland, Tanzania. Remote Sensing Applications: Society and Environment, 43, 102142. https://doi.org/10.1016/j.rsase.2026.102142.
 
-**Bregoli, F. (2026)**. Wetland_Fire_Dynamics_Mapping: v1.0.0 - GEE Code for mapping fire dynamics of the Mara Wetland, Tanzania (Version v1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.22707990
+**Bregoli, F., & Michailovsky, C. (2026)**. Wetland_Fire_Dynamics_Mapping: v1.0.0 - Code for wetland fire dynamics mapping publication (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22707990
 
 ## License
 This project is licensed under the **MIT License**. 
