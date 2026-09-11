@@ -1,7 +1,6 @@
 # Google Earth Engine script for mapping wetland fire dynamics
 
 [[![DOI](https://zenodo.org)](https://doi.org)](https://doi.org/10.5281/zenodo.22707990)
-<!-- Note: Replace the link above with your actual Zenodo DOI badge once you create your release -->
 
 ## Overview
 Wetlands are important habitats supporting aquatic and terrestrial ecosystem services. However, numerous human pressures lead to their degradation. 
