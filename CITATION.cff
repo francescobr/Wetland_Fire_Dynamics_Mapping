@@ -1,6 +1,8 @@
 message: If you use this software, please cite it as below.
-author: Francesco Bregoli
-orcid: https://orcid.org/0000-0003-0336-3942
+authors:
+- family-names: "Bregoli"
+  given-names: "Francesco"
+  orcid: "https://orcid.org/0000-0003-0336-3942"
 title: Wetland_Fire_Dynamics_Mapping: v1.0.0 - Code for mapping fire dynamics of the Mara Wetland, Tanzania
 version: v1.0.0
 date-released: 2026-09-11
