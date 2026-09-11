@@ -1,8 +1,10 @@
-message: If you use this software, please cite it as below.
+cff-version: 1.0.1
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Bregoli"
   given-names: "Francesco"
   orcid: "https://orcid.org/0000-0003-0336-3942"
-title: Wetland_Fire_Dynamics_Mapping: v1.0.0 - Code for mapping fire dynamics of the Mara Wetland, Tanzania
+title: "Wetland_Fire_Dynamics_Mapping: v1.0.0 - GEE Code for mapping fire dynamics of the Mara Wetland, Tanzania"
 version: v1.0.0
+doi: 10.5281/zenodo.22707990
 date-released: 2026-09-11
